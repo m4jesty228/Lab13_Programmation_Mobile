@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapApplication</string>
+    <string name="new_location">Nouvelle position : Latitude = %1$s, Longitude = %2$s, Altitude = %3$s, Précision = %4$s mètres</string>
+    <string name="provider_enabled">Le provider %s est maintenant activé</string>
+    <string name="provider_disabled">Le provider %s est maintenant désactivé</string>
+    <string name="provider_new_status">Le provider %1$s a un nouveau statut : %2$s</string>
+</resources>
